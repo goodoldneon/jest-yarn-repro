@@ -1,0 +1,7 @@
+{
+  "name": "workspace-b",
+  "version": "1.0.0",
+  "devDependencies": {
+    "jest": "27.0.1"
+  }
+}

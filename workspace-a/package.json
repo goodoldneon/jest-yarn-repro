@@ -1,0 +1,7 @@
+{
+  "name": "workspace-a",
+  "version": "1.0.0",
+  "devDependencies": {
+    "babel-plugin-optimize-hook-destructuring": "1.2.0"
+  }
+}
